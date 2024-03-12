@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">multiple</string>
+    <string name="errorText1">Enter more than 5 symbols</string>
+    <string name="name">Name</string>
+    <string name="years">Years</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+</resources>
